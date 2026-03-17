@@ -55,13 +55,6 @@
 
 ## AI Ethics and Responsible Usage Declaration
 
-- The data used in this project is publicly available from NSE India.
-- This analysis is done only for educational purposes as part of college assignment.
-- The forecast results are based on a statistical model and should not be used for real investment decisions.
-- AI tools were used to help write and debug the code. All results were checked and understood by me before submitting.
-- This is my own individual work. I have not copied from any other student.
-- Each student was given a different stock to ensure originality.
+[Click here to view AI Ethics Declaration](AIethics_decleration.pdf)
 
 ---
-
-*Submitted: 17 March 2026*
