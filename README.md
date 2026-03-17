@@ -55,6 +55,6 @@
 
 ## AI Ethics and Responsible Usage Declaration
 
-[Click here to view AI Ethics Declaration](Declaration.pdf)
+[Click here to view AI Ethics Declaration](AI_Ethics_Declaration.docx)
 
 ---
