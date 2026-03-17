@@ -1,13 +1,5 @@
 # AUBANK Stock Time Series Analysis
 
-**Name:** Mohammed Affan Ansari  
-**UIN:** 231A023  
-**Stock:** AUBANK (AU Small Finance Bank)  
-**Course:** Data Analytics and Visualization — CSC601  
-**College:** Rizvi College of Engineering, Mumbai  
-
----
-
 ## Files in this Repository
 
 - `AUBANK.csv` — Stock data downloaded from NSE
@@ -60,23 +52,6 @@
 
 ---
 
-## How to Run
-
-1. Install the required libraries:
-```
-pip install pandas matplotlib statsmodels
-```
-
-2. Put `AUBANK.csv` and `AUBANK_analysis.py` in the same folder
-
-3. Run the code:
-```
-python AUBANK_analysis.py
-```
-
-4. All output files will be saved in the `outputs` folder
-
----
 
 ## AI Ethics and Responsible Usage Declaration
 
